@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+python-path.txt
+*.zip
+*.oclr
+.gpu-zip-*/
+.zip-build-*/
+.zip-restore-*/
+.gpu-folder-*/
